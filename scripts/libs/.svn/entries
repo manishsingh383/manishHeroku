@@ -1,0 +1,80 @@
+9
+
+dir
+1607
+http://istsvn.corp.apple.com:1080/SVNROOT/MFI/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs
+http://istsvn.corp.apple.com:1080/SVNROOT/MFI
+
+
+
+2013-01-23T07:02:23.424915Z
+1543
+asha_joshi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+78191eb3-3801-0010-ad9f-5b21b3a09af5
+
+backbone
+dir
+
+bootstrap
+dir
+
+jquery
+dir
+
+listjs
+dir
+
+pubsub.js
+file
+
+
+
+
+2013-01-03T10:33:29.000000Z
+aeacdb4034f8d907fdae7b9f35b80ece
+2013-01-03T07:04:17.284419Z
+1303
+anish_cherian
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2109
+
+require
+dir
+
+underscore
+dir
+

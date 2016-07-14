@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require
+END
+require-jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require/require-jquery.js
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require/require.js
+END
+domReady.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require/domReady.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require/text.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/SVNROOT/MFI/!svn/ver/1304/branches/MFi-v1.0.1/MFiDev/MFiWeb/src/main/webapp/admin/scripts/libs/require/json.js
+END
